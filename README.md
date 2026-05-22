@@ -41,7 +41,10 @@ This project is ideal for:
 ## 🛠️ Tech Stack
 
 - **HTML5**
-- **CSS3 (Flexbox, Responsive Layouts)**
+- **CSS3**
+  - Flexbox
+  - Responsive Layouts
+  - Grid Layout
 - **JavaScript (Vanilla)**
 - **Google Fonts**
 - **Modern UI/UX design principles**
