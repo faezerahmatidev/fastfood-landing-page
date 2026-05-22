@@ -60,13 +60,17 @@ foodeli-landing-page/
 ├── style/
 │   └── style.css
 └── index.html
+```
 
 🧪 How to Run Locally
 bash
+
 # Clone the project
+
 git clone https://github.com/faezerahmatidev/foodeli-landing-page.git
 
 # Open the folder
+
 cd foodeli-landing-page
 
 # Open index.html in your browser
@@ -75,4 +79,3 @@ cd foodeli-landing-page
 GitHub: https://github.com/faezerahmatidev
 Email: faezerahmati.dev@gmail.com
 Made with ❤️ for clean frontend development and UI practice.
-```
