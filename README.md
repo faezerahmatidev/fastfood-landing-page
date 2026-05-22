@@ -62,18 +62,19 @@ foodeli-landing-page/
 └── index.html
 ```
 
-🧪 How to Run Locally
+# 🧪 How to Run Locally
+
 bash
 
-# Clone the project
+## Clone the project
 
 git clone https://github.com/faezerahmatidev/foodeli-landing-page.git
 
-# Open the folder
+## Open the folder
 
 cd foodeli-landing-page
 
-# Open index.html in your browser
+## Open index.html in your browser
 
 📬 Contact
 GitHub: https://github.com/faezerahmatidev
